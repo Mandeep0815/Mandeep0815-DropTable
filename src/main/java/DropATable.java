@@ -17,7 +17,9 @@ import java.sql.Statement;
  * Additional reference material if needed: https://www.w3schools.com/sql/sql_drop_db.asp
  * */
 public class DropATable {
-
+     public static void main(String[] args) {
+        
+     }
     /**
      *      Task: Drop the table "song"
      *      song Table Diagram:
